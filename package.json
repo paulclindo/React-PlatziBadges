@@ -12,9 +12,11 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "react": "16.8.3",
     "react-dom": "16.8.3",
-    "react-scripts": "2.1.5"
+    "react-scripts": "2.1.5",
+    "react-router-dom": "4.3.1"
   },
   "devDependencies": {
     "faker": "^4.1.0",
