@@ -1,15 +1,6 @@
 {
   "badges": [
     {
-      "id": "2de30c42-9deb-40fc-a41f-05e62b5939a7",
-      "firstName": "Paul",
-      "lastName": "Mrccri",
-      "email": "Leann_Berge@gmail.com",
-      "jobTitle": "System Engineer",
-      "twitter": "PaulMr",
-      "avatarUrl": "https://www.gravatar.com/avatar/f63a9c45aca0e7e7de0782a6b1dff40b?d=identicon"
-    },
-    {
       "id": "d00d3614-101a-44ca-b6c2-0be075aeed3d",
       "firstName": "Major",
       "lastName": "Rodriguez",
@@ -431,15 +422,6 @@
       "jobTitle": "Frontend Engineer @ Kickass Partners",
       "twitter": "sparragus",
       "id": "EYR2BVQ"
-    },
-    {
-      "firstName": "Carolynn",
-      "lastName": "Kaufman",
-      "email": "carolynn@example.com",
-      "avatarUrl": "https://www.gravatar.com/avatar/580a552f26ac5e3a0817c3ecc5b9d690?d=identicon",
-      "jobTitle": "Lawyer",
-      "twitter": "ckaufmanpr",
-      "id": "npaYZKI"
     },
     {
       "firstName": "Paul",
